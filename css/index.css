@@ -1,3 +1,4 @@
+/*코드펜 (배경)*/
 * {
 	box-sizing: border-box;
 	padding: 0;
@@ -5,14 +6,14 @@
 }
 
 body {
+    z-index: -12;
 	color: hsl(41, 70%, 9%);
 	background: hsl(59 77% 86%);
 	min-block-size: 100svb;
 	display: grid;
 	place-items: center;
 }
-
-  
+/*코드펜(고양이 강아지 움직이는거)*/
   .left {
     position: absolute;
     height: 100%;
@@ -554,7 +555,7 @@ body {
     }
   }
 
-  nav {padding-left: 3%; margin-top: -14%; margin-bottom: 8%; border-radius: 15%; width: 100%; margin-left: 5%; font-size: 1.2em;}
+  nav {padding-left: 3%; margin-top: -14%; margin-bottom: 8%; border-radius: 15%; width: 90%; margin-left: 5%; font-size: 1.2em;}
   nav a{margin-left: 4%;}
   nav ul{width: 50%;}
   nav ul:first-child{margin-left: 4%;}
