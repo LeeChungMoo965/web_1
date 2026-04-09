@@ -542,8 +542,8 @@ body {
       transform: none; 
     }
   }
-  .container-sm{position: relative;}
-  nav {padding-left: 5%; margin-bottom: 14%; border-radius: 10%; }
+
+  nav {padding-left: 5%; margin-bottom: 14%; border-radius: 15%; }
   nav a{margin-left: 4%;}
   section {display: flex; justify-content: space-around;}
   .card{display: inline-block; margin-top: 5%;text-align: center; padding: 1%; background-color: #5e626f; color: white;}
@@ -568,13 +568,15 @@ footer address p{margin-top: 0.3em}
 footer address p span{padding-left: 1em;}
 body{font-family: "Jua", sans-serif;font-weight: 100;font-style: normal;}
 .carousel-item img{}
-#back1{height: 130%;position: absolute;
+#back1{height: 150%;position: absolute;
     width: 50%;
     background: #ffca95;
 z-index: -2;}
-#back2{height: 130%;
+#back2{height: 150%;
     position: absolute;
     left: 50%;
     width: 50%;
     background: #20314e;
 z-index: -2;}
+
+#carouselExampleIndicators{width: 70%; margin-left: 15%;}
