@@ -568,3 +568,13 @@ footer address p{margin-top: 0.3em}
 footer address p span{padding-left: 1em;}
 body{font-family: "Jua", sans-serif;font-weight: 100;font-style: normal;}
 .carousel-item img{}
+#back1{height: 130%;position: absolute;
+    width: 50%;
+    background: #ffca95;
+z-index: -2;}
+#back2{height: 130%;
+    position: absolute;
+    left: 50%;
+    width: 50%;
+    background: #20314e;
+z-index: -2;}
