@@ -592,13 +592,13 @@ body{font-family: "Jua", sans-serif;font-weight: 100;font-style: normal;}
 #asdf img{width: 500px;height: 300px; margin-left: 1%;}
 #asdf{margin-left: 1%;display: flex;justify-content: start; text-align: left; padding: 3%;}
 #asdf p,table,img{margin-right: 3%;}
-article{border: 1px solid #ffca95;background: hsl(59 77% 86%);; padding: 1% 0;width: 70%; margin-left: 6%; font-size: 1.5em; border-radius: 12%; margin-bottom: 6%;}
+article{border: 6px solid #ffca95;background: hsl(59 77% 86%);; padding: 1% 0;width: 70%; margin-left: 6%; font-size: 1.5em; border-radius: 12%; margin-bottom: 6%;}
 section{margin-bottom: 1%;}
 #asda{ margin: 1%;display: flex;justify-content: end; text-align: left; }
 #asda p,table,img{margin-left: 3%; }
 #asda img{width: 500px;height: 300px; margin-right: 3%;}
 #asda{ padding: 3%;}
-#asdaa{margin-left: 25%;background: hsl(59 77% 86%); border: 1px solid #ffca95;}
+#asdaa{margin-left: 25%;background: hsl(59 77% 86%); border: 6px solid #ffca95;}
 
 #aaaa{margin-bottom: 10%;}
 .carousel-inner{margin-left: 10%;}
